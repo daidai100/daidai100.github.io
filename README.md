@@ -1,6 +1,6 @@
 ﻿# dadai100.github.io
  
- https://daidai100.github.io/dadai100.github.io/
+ https://daidai100.github.io/
  を実用と練習を兼ねていじっていこうというプロジェクト
  完成イメージとしては名刺になるようなサイトの作成、各プロジェクトの整理
  あとGithubの使いかたがよくわかってないのでその練習用
