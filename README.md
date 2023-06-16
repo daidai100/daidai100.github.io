@@ -1,10 +1,9 @@
 ﻿# dadai100.github.io
  
- https://daidai100.github.io/
+ https://daidai100.github.io/ ![hpqrmini](https://github.com/daidai100/daidai100.github.io/assets/79584659/75f5004e-32da-4681-8af4-f23f7d470ce8)
  を実用と練習を兼ねていじっていこうというプロジェクト
  完成イメージとしては名刺になるようなサイトの作成、各プロジェクトの整理
  あとGithubの使いかたがよくわかってないのでその練習用
- ![hpqr](https://github.com/daidai100/daidai100.github.io/assets/79584659/b0b83c6f-3936-4f8f-b34f-77f3dd767fde)
 
 ## 概要
 個人プロジェクトとか用のホームページ
