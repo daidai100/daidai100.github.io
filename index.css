@@ -4,18 +4,24 @@
   display: flex; /*横並び*/
   font-family:  "ヒラギノ角ゴ ProN W3", HiraKakuProN-W3, 游ゴシック, "Yu Gothic", メイリオ, Meiryo, Verdana, Helvetica, Arial, sans-serif;
   font-size: 100%;
+  max-width: 100%; /*こいつがポイントだった...?*/
+  align-items: center;
 }
-.outset .img{
-  width: 50%;
+.outset img{
+  width: 30%;
 }
 .outset .title {
+  display: inline-block;
   font-size: 100%;
+  font-weight:bold;
   width: 100%;
-  margin: 15% 5% 0% 5%;
+  margin: 0% 0% 0% 5%;
+  flex-wrap:wrap;
+  ruby-position: under;
 }
-.outset .english {
+.outset .title rt {
+  text-align: left;
   text-decoration: overline;
-  font-size: 0%;
   margin: 0% 5% 0% 5%;
 }
 
