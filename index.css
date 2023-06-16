@@ -4,7 +4,7 @@
   display: flex; /*横並び*/
   font-family:  "ヒラギノ角ゴ ProN W3", HiraKakuProN-W3, 游ゴシック, "Yu Gothic", メイリオ, Meiryo, Verdana, Helvetica, Arial, sans-serif;
   max-width: 100%; /*こいつがポイントだった...?*/
-  font-size: min(4.5vw, 30px);
+  font-size: min(4.5vw, 25px);
   align-items: center;
 }
 .outset img{
