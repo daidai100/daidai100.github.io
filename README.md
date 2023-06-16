@@ -1,9 +1,12 @@
-﻿# dadai100.github.io            ![hpqrmicro](https://github.com/daidai100/daidai100.github.io/assets/79584659/8ee4d3a1-6c12-4ba5-8516-b0d51f916203)
+﻿# dadai100.github.io
  
  https://daidai100.github.io/ 
  を実用と練習を兼ねていじっていこうというプロジェクト
  完成イメージとしては名刺になるようなサイトの作成、各プロジェクトの整理
- あとGithubの使いかたがよくわかってないのでその練習用      
+ あとGithubの使いかたがよくわかってないのでその練習用 
+ 
+## QR Code
+![hpqrmicro](https://github.com/daidai100/daidai100.github.io/assets/79584659/8ee4d3a1-6c12-4ba5-8516-b0d51f916203)
 
 ## 概要
 個人プロジェクトとか用のホームページ
