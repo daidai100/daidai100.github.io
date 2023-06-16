@@ -1,6 +1,6 @@
-﻿# dadai100.github.io
+﻿# dadai100.github.io ![hpqrmini](https://github.com/daidai100/daidai100.github.io/assets/79584659/75f5004e-32da-4681-8af4-f23f7d470ce8)
  
- https://daidai100.github.io/ ![hpqrmini](https://github.com/daidai100/daidai100.github.io/assets/79584659/75f5004e-32da-4681-8af4-f23f7d470ce8)
+ https://daidai100.github.io/ 
  を実用と練習を兼ねていじっていこうというプロジェクト
  完成イメージとしては名刺になるようなサイトの作成、各プロジェクトの整理
  あとGithubの使いかたがよくわかってないのでその練習用
