@@ -6,7 +6,7 @@
 /* 冒頭部 参考：https://www.nowte.net/ui/ui-css-horizontal-image-text/ */
 .outset {
   display: flex; /*横並び*/
-  font-family:  "ヒラギノ角ゴ ProN W3", HiraKakuProN-W3, 游ゴシック, "Yu Gothic", メイリオ, Meiryo, Verdana, Helvetica, Arial, sans-serif;
+  font-family: 'misakidot';
   max-width: 100%; /*こいつがポイントだった...?*/
   font-size: min(4.5vw, 25px);
   align-items: center;
@@ -30,7 +30,7 @@
 }
 
 .self {
-  font-family: 'misakidot';
+  font-family: 'hiragino';
   max-width: 100%;
   font-size: min(4.5vw, 25px);
   align-items: center;
