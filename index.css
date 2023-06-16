@@ -19,7 +19,7 @@
   flex-wrap:wrap;
   ruby-position: under;
 }
-.outset .title rt {
+.outset .title rt { /*英語をるびでふる*/
   text-align: left;
   text-decoration: overline;
   margin: 0% 5% 0% 5%;
