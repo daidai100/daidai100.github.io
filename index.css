@@ -34,11 +34,40 @@
   max-width: 100%;
   font-size: min(4.5vw, 25px);
   align-items: center;
+  display: flex; /*横並び*/
 }
 
 .self img{
-  max-width: 150px; /* 最大幅　PCでめちゃでかくなるのいやなので */
+  max-width: 100px; /* 最大幅　PCでめちゃでかくなるのいやなので */
   width: 30%;
+}
+
+.self .title {
+  display: inline-block;
+  font-weight:bold;
+  width: 100%;
+  margin: 0% 0% 0% 5%;
+  flex-wrap:wrap;
+  ruby-position: under;
+}
+.outset .title rt { /*英語をるびでふる*/
+  text-align: left;
+  text-decoration: overline;
+  margin: 0% 5% 0% 5%;
+}
+
+.self .text {
+  display: inline-block;
+  width: 100%;
+  margin: 0% 0% 0% 5%;
+  flex-wrap:wrap;
+}
+
+.self .english {
+  display: inline-block;
+  width: 100%;
+  margin: 0% 0% 0% 5%;
+  flex-wrap:wrap;
 }
 
 /* リンク集 参考：https://pisuke-code.com/css-examples-of-clip-path/ */
