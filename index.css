@@ -10,6 +10,7 @@
   max-width: 100%; /*こいつがポイントだった...?*/
   font-size: min(4.5vw, 25px);
   align-items: center;
+  ruby-position: under;
 }
 .outset img{
   max-width: 150px; /* 最大幅　PCでめちゃでかくなるのいやなので */
@@ -60,7 +61,7 @@
   ruby-position: under;
 }
 .self .title rt { /*英語をるびでふる*/
-  text-align: left;
+  text-align: center;
   text-decoration: overline;
   margin: 0% 5% 0% 5%;
 }
@@ -70,6 +71,7 @@
   max-width: 100%;
   font-size: min(3vw, 20px);
   align-items: center;
+  text-align: center;
 }
 .introduction .text {
   display: inline-block;
