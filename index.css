@@ -41,7 +41,7 @@
 /* 自己紹介 参考：https://www.nowte.net/ui/ui-css-horizontal-image-text/ */
 .self {
   font-family: 'hiragino';
-  max-width: 100%;
+  max-width: 90%;
   font-size: min(4.5vw, 25px);
   align-items: center;
   display: flex; /*横並び*/
